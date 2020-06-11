@@ -1,3 +1,3 @@
 # Bounce-like
- A 2D platfrorm game prototype 
+ A 2D platform game prototype 
  Made with Unity Engine
